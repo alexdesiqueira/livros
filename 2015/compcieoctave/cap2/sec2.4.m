@@ -165,12 +165,12 @@ pi*180/pi
 % #1
 sinh(pi/2)
 cosh(pi/2)
+coth(1/4)
+sech(pi)
 
 % #2
 atanh(1/2)
 acsch(pi/3)
-coth(1/4)
-sech(pi)
 
 
 %% Exercício 1 
