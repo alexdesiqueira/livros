@@ -74,15 +74,20 @@ v
 % #8
 A = [1 2 3; 3 2 1; 2 3 1]
 B = [1 2; 3 4; 5 6]
+
+% Nota 2
+> A = [1 2; 3 4 5]
+
+% #9
 size(A)
 size(B)
 length(A)
 length(B)
 
-% #9
+% #10
 A(end,end)
 
-% #10
+% #11
 numel(A)
 numel(B)
 
