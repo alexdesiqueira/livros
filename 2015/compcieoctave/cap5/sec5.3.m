@@ -38,7 +38,7 @@ nao_faco_nada
 
 % #3
 function texto_simples
-    disp('Só imprimo esse texto.')
+    disp('Só imprimo este texto.')
 end
 
 % #4

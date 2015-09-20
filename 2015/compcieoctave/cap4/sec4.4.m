@@ -92,7 +92,8 @@ escala_tam = linspace(1,10,length(t));
 escala_cor = linspace(1,10,length(t));
 scatter(x,y,escala_tam,escala_cor,'^','filled')
 
-% Nota 1
+%% Nota 1
+% #1
 rand('seed',0)
 vet_x = rand(1,100);
 vet_y = rand(1,100);
@@ -100,6 +101,9 @@ vet_z = rand(1,100);
 escala_tam = linspace(1,10,length(vet_x));
 escala_cor = linspace(1,10,length(vet_x));
 scatter3(vet_x,vet_y,vet_z,escala_tam,escala_cor,'filled')
+
+% #2
+escala_tam = escala_cor = linspace(0,pi,length(vet_x));
 
 
 %% A função pie()

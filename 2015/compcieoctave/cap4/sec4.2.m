@@ -76,3 +76,6 @@ plot3(cos(x),y,z,'--','linewidth',3)
 plot3(cos(x),y,sin(z),'-.','linewidth',3)
 plot3(x,sin(y),cos(z),':','linewidth',3)
 hold off
+
+% #4
+x = y = z = 0:0.1:10*pi;
