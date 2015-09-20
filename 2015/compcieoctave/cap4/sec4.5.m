@@ -98,3 +98,17 @@ grade = linspace(-10,10,60);
 [xx,yy] = meshgrid(grade);
 zz = cos(sqrt(xx.^2 + yy.^2)) .* sqrt(xx.^2 + yy.^2);
 contourf(xx,yy,zz)
+
+% #3
+subplot(211)
+[xx,yy,zz] = sombrero(41);
+meshc(xx,yy,zz,'linewidth',2)
+subplot(212)
+contour(xx,yy,zz,'linewidth',2)
+figure;
+[xx,yy,zz] = peaks(49);
+subplot(211)
+surfc(xx,yy,zz,'linewidth',2)
+subplot(212)
+contourf(xx,yy,zz,'linewidth',2)
+
