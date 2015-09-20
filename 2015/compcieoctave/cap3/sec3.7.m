@@ -126,6 +126,7 @@ b./A
 
 % #5
 0/0
+0*Inf
 Inf-Inf
 Inf/Inf
 
@@ -156,24 +157,26 @@ B.^A
 %% Transposição de vetores e matrizes
 % #1
 Areal = [1 2 3 4];
-Areal'
+transpose(Areal)
+
+% #2
 Breal = [1 2 3; 4 5 6; 7 8 9];
 Breal'
 
-% #2
+% #3
 Acomplexo = [i 2i 3i 4i];
 Acomplexo'
 
-% #3
+% #4
 Areal = [1 2 3 4];
 Aconjugado = conj(Areal)
 Aconjugado'
 
-% #4
+% #5
 Acomplexo = [i 2i 3i 4i];
 Acomplexo.'
 
-% #5
+% #6
 Areal = [1 2 3 4];
 size(Areal)
 size(Areal')
@@ -207,15 +210,15 @@ inv(A)
 A*inv(A)
 
 % #4
-A = [3 1 0; -4 -3 0; 7 2 0];
-det(A)
-inv(A)
+B = [3 1 0; -4 -3 0; 7 2 0];
+det(B)
+inv(B)
 
 % #5
-A = [1 0 3; -4 -3 0; 7 0 2];
-lambda1 = eig(A)
 B = [3 1 0; -4 -3 0; 7 2 0];
-lambda2 = eig(B)
+lambda1 = eig(B)
+C = [1 0 3; -4 -3 0; 7 0 2];
+lambda2 = eig(C)
 
 % #6
 A = [3 0 -1; 10 -2 0; 3 1 3];
