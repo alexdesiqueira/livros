@@ -1,5 +1,4 @@
-# DE SIQUEIRA, A.F. Octave: Seus primeiros passos na programação
-científica. Casa do Código, 2015
+# Octave: Seus primeiros passos na programação científica.
 
 Repositório para o código-fonte dos programas disponíveis no livro
 "Octave: Seus primeiros passos na programação científica", de Alexandre
