@@ -1,9 +1,9 @@
 %{
 SEC7.1.M
 
-Material de apoio do livro "Computação científica com GNU Octave".
-Exemplos da seção 7.1, capítulo 7, "O Octave-Forge: mais poder para 
-seu Octave".
+Material de apoio do livro "Octave: Seus primeiros passos na programação
+científica". Exemplos da seção 7.1, capítulo 7, "O Octave-Forge: mais
+poder para seu Octave".
 
 * Autor: Alexandre 'Jaguar' Fioravante de Siqueira
 * Editora: Casa do Código
@@ -13,8 +13,8 @@ seu Octave".
 * Material de apoio: http://goo.gl/VnnAnF
 
 * Para citar esse material, por favor utilize a referência abaixo:
-SIQUEIRA, A.F. Computação científica com GNU Octave. São Paulo: 
-Casa do Código, 2015. xxx p.
+DE SIQUEIRA, A.F. Octave: Seus primeiros passos na programação
+científica. São Paulo: Casa do Código, 2015.
 
 Este programa é um software livre; você pode redistribuí-lo e/ou 
 modificá-lo dentro dos termos da Licença Pública Geral GNU como 
