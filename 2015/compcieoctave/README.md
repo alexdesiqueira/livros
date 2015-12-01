@@ -1,4 +1,10 @@
-# Computação Científica com GNU Octave
-Repositório para o código-fonte dos programas disponíveis no livro 
-"Computação Científica com GNU Octave", de Alexandre Fioravante de 
-Siqueira, editado pela Casa do Código.
+# DE SIQUEIRA, A.F. Octave: Seus primeiros passos na programação
+científica. Casa do Código, 2015
+
+Repositório para o código-fonte dos programas disponíveis no livro
+"Octave: Seus primeiros passos na programação científica", de Alexandre
+Fioravante de Siqueira, publicado pela Casa do Código.
+
+* Adquira sua cópia em: http://www.casadocodigo.com.br.
+* Grupo destinado a discussões sobre o livro:
+http://groups.google.com/forum/#!forum/compcieoctave
