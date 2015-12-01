@@ -1,9 +1,15 @@
 # Octave: Seus primeiros passos na programação científica.
 
-Repositório para o código-fonte dos programas disponíveis no livro
-"Octave: Seus primeiros passos na programação científica", de Alexandre
-Fioravante de Siqueira, publicado pela Casa do Código.
+Repositório do material de apoio do livro "Octave: Seus primeiros
+passos na programação científica".
 
-* Adquira sua cópia em: http://www.casadocodigo.com.br.
-* Grupo destinado a discussões sobre o livro:
-http://groups.google.com/forum/#!forum/compcieoctave
+* Autor: Alexandre 'Jaguar' Fioravante de Siqueira
+* Editora: Casa do Código
+* Contato: http://www.programandociencia.com/sobre/
+           http://www.casadocodigo.com.br/
+* Fórum de discussão: http://groups.google.com/d/forum/compcieoctave
+* Material de apoio: http://goo.gl/VnnAnF
+
+* Para citar esse material, por favor utilize a referência abaixo:
+DE SIQUEIRA, A.F. Octave: Seus primeiros passos na programação
+científica. São Paulo: Casa do Código, 2015.
