@@ -11,5 +11,6 @@ passos na programação científica".
 * Material de apoio: http://goo.gl/VnnAnF
 
 * Para citar esse material, por favor utilize a referência abaixo:
-DE SIQUEIRA, A.F. Octave: Seus primeiros passos na programação
+
+### DE SIQUEIRA, A.F. Octave: Seus primeiros passos na programação
 científica. São Paulo: Casa do Código, 2015.
