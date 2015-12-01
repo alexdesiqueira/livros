@@ -1,8 +1,9 @@
 %{
 CILINDRO_VARIAVEIS.M
 
-Material de apoio do livro "Computação científica com GNU Octave".
-Exemplo #13 do capítulo 5, "Gravando e reaproveitando código".
+Material de apoio do livro "Octave: Seus primeiros passos na programação
+científica". Exemplo #13 do capítulo 5, "Gravando e reaproveitando
+código".
 
 * Autor: Alexandre 'Jaguar' Fioravante de Siqueira
 * Editora: Casa do Código
@@ -12,8 +13,8 @@ Exemplo #13 do capítulo 5, "Gravando e reaproveitando código".
 * Material de apoio: http://www.github.com/alexandrejaguar/compcieoctave
 
 * Para citar esse material, por favor utilize a referência abaixo:
-SIQUEIRA, A.F. Computação científica com GNU Octave. São Paulo: 
-Casa do Código, 2015. xxx p.
+DE SIQUEIRA, A.F. Octave: Seus primeiros passos na programação
+científica. São Paulo: Casa do Código, 2015.
 
 Este programa é um software livre; você pode redistribuí-lo e/ou 
 modificá-lo dentro dos termos da Licença Pública Geral GNU como 
