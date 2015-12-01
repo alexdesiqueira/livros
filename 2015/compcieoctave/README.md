@@ -5,7 +5,7 @@ passos na programação científica".
 
 * Autor: Alexandre 'Jaguar' Fioravante de Siqueira
 * Editora: Casa do Código
-* Contato: http://www.programandociencia.com/sobre/
+* Contato: http://www.programandociencia.com/sobre/ e
 http://www.casadocodigo.com.br/
 * Fórum de discussão: http://groups.google.com/d/forum/compcieoctave
 * Material de apoio: http://goo.gl/VnnAnF
